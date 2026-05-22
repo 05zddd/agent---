@@ -1,0 +1,7 @@
+2026-05-21 17:02:08,891 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有1条消息。
+2026-05-21 17:02:08,892 - agent - DEBUG - middleware.py:42 - [log_before_model]HumanMessage | 机器人如何保养
+2026-05-21 17:02:11,347 - agent - INFO - middleware.py:19 - [tool monitor]执行工具：rag_summarize
+2026-05-21 17:02:11,347 - agent - INFO - middleware.py:20 - [tool monitor]传入参数：{'query': '扫地机器人保养维护指南'}
+2026-05-21 17:02:16,556 - agent - INFO - middleware.py:24 - [tool monitor]工具rag_summarize调用成功
+2026-05-21 17:02:17,470 - agent - INFO - middleware.py:40 - [log_before_model]即将调用模型，带有3条消息。
+2026-05-21 17:02:17,471 - agent - DEBUG - middleware.py:42 - [log_before_model]ToolMessage | 定期清理滚刷和边刷上的缠绕物，清空尘盒并清洗滤网（若为可水洗类型），检查并清理传感器和充电触点，避免在潮湿或有大量液体的地面使用，长时间不用时应取出电池并存放于干燥处。
